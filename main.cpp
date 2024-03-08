@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout<<"Hello World!! This is PES2UG21CS414!" << std::end1;
+  std::cout<<"Hello World!! This is PES2UG21CS414!" << std::endl;
 return 0;
 }
