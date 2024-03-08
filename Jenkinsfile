@@ -20,11 +20,11 @@ pipeline{
         echo 'Deploy'
       }
     }
+  }
     post{
       failure{
         error 'Pipeline failed'
       }
     }
-  }
 }
     
